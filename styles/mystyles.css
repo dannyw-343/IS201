@@ -1,27 +1,27 @@
 /*--Danny Wright. Last Edited: 4/15/22 */
 p {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    background-color:#d9f2ff;
-    color: rgb(0, 0, 0);
-    
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  background-color:#d9f2ff;
+  color: rgb(0, 0, 0);
+  
 }
 
 body {
-    background-image: url("../images/bg.jpg");
-    background-attachment:fixed;
-    background-position: center;
-    background-size: cover;
-  }
+  background-image: url("../images/bg.jpg");
+  background-attachment:fixed;
+  background-position: center;
+  background-size: cover;
+}
 
 a {
-    color:beige;
+  color:#8cb1fa;
 }
 
 #mainNav-custom {
-    background-color:#5aa4ed;
-    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  }
+  background-color:#5aa4ed;
+  font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
 
 .btn-primary-custom {
 color: #000;
@@ -31,57 +31,52 @@ font-weight: 600;
 }
 
 .bg-faded-custom {
-    background-color: #d9f2ff;
+  background-color: #d9f2ff;
 }
 
 .text-faded-custom {
-    color: #80c1e5;
+  color: #80c1e5;
   }
 
 .text-color1 {
-    color: #5aa4ed;
+  color: #5aa4ed;
 }
 
 .footer-custom {
-    background-color: #d9f2ff;
-    position: relative;
-
+  background-color: #d9f2ff;
+  position: relative;
 }
 
 .custom-img-size {
-    position: relative;
-    z-index: 0;
-    max-width: 50vw;
-  }
+  position: relative;
+  z-index: 0;
+  max-width: 50vw;
+}
 
 .link-primary-custom {
-    color: #8cb1fa;
-  }
-  .link-primary:hover, .link-primary:focus {
-    color: #76a2fa;
-  }
+  color: #8cb1fa;
+}
+.link-primary:hover, .link-primary:focus {
+  color: #658ad4;
+}
   
-  .link-secondary {
-    color: #2F170F;
-  }
-  .link-secondary:hover, .link-secondary:focus {
-    color: #26120c;
-  }
+.link-secondary {
+  color: #120f2f;
+}
+.link-secondary:hover, .link-secondary:focus {
+  color: #120f2f;
+}
 
 .custom-container {
-    text-align: center;
+  text-align: center;
 }
 
 .custom-about-heading {
-    margin-top: 0px;
+  margin-top: 0px;
 }
 
 .text-center1 {
   text-align: center;
 }
 
-.tableau-position { 
-  margin: 5px;
-  height: auto;
-}
 
