@@ -1,0 +1,46 @@
+/*<!--Danny Wright. Last Edited: 4/15/22 -->*/
+.custom-img-size {
+  position: relative;
+  z-index: 0;
+  max-width: 50vw;
+}
+
+.custom-img-size2 {
+  position: relative;
+  z-index: 0;
+  max-width: 150px;
+}
+
+.tableau-bg {
+  background-image: url(../images/bg.jpg);
+}
+
+.custom-tableau-styles {
+  border: 20px;
+  border-color: aquamarine;
+}
+
+.tableau-captions {
+  padding: 20px;
+  border: 0px;
+  margin: 0px;
+}
+
+.tableau-heading {
+  border: 0px;
+  margin: 0px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.tableau-title {
+  text-align: center;
+  padding: 0px;
+  border: 0px;
+  font-size: 50px;
+  margin: 5px 0px 5px 0px;
+}
+
+.link-primary-custom2 {
+  color: black;
+}
