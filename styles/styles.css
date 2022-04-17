@@ -6429,7 +6429,7 @@ textarea.form-control-lg {
 }
 .clearfix::after {
   display: block;
-  clear: both;
+  clear:both;
   content: "";
 }
 

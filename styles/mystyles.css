@@ -18,6 +18,22 @@ a {
   color:#8cb1fa;
 }
 
+.photo-cred {
+  text-align: center;
+  position: relative;
+  margin: 0px;
+  border: 0px;
+  padding: 10px;
+  float: right;
+  right: -800px;
+  top: 530px;
+  z-index: 1;
+}
+
+.intro-img {
+  margin: 0px 0px 0px 0px;
+}
+
 #mainNav-custom {
   background-color:#5aa4ed;
   font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
